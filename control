@@ -1,0 +1,9 @@
+Package: com.nichojoshua.hapticvolumexs
+Name: HapticVolumeXS
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Haptic feedback when you increase or decrease volume! iOS 13 only!
+Maintainer: NichoJoshua <nichojoshua26@gmail.com>
+Author: NichoJoshua <nichojoshua26@gmail.com>
+Section: Tweaks
